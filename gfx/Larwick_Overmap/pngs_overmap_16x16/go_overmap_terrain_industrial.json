@@ -1,0 +1,1164 @@
+[
+  {
+    "id": "public_works_NE",
+    "fg": "industry_light_gray"
+  },
+  {
+    "id": "public_works_NE_roof",
+    "fg": "industry_light_gray"
+  },
+  {
+    "id": "public_works_NW",
+    "fg": "industry_light_gray"
+  },
+  {
+    "id": "public_works_NW_roof",
+    "fg": "industry_light_gray"
+  },
+  {
+    "id": "public_works_SW",
+    "fg": "industry_light_gray"
+  },
+  {
+    "id": "public_works_SW_roof",
+    "fg": "industry_light_gray"
+  },
+  {
+    "id": "public_works_SE",
+    "fg": "industry_light_gray"
+  },
+  {
+    "id": "public_works_SE_roof",
+    "fg": "industry_light_gray"
+  },
+  {
+    "id": "sai",
+    "fg": "garage_light_cyan"
+  },
+  {
+    "id": "pwr_sub_s",
+    "fg": "garage_light_cyan"
+  },
+  {
+    "id": "pwr_sub_s_roof",
+    "fg": "garage_light_cyan"
+  },
+  {
+    "id": "pwr_large_entrance",
+    "fg": "industry_cyan"
+  },
+  {
+    "id": "pwr_large_entrance_roof",
+    "fg": "industry_cyan"
+  },
+  {
+    "id": "pwr_large_2",
+    "fg": "silo_cyan"
+  },
+  {
+    "id": "pwr_large_2_roof",
+    "fg": "silo_cyan"
+  },
+  {
+    "id": "pwr_large_3",
+    "fg": "silo_cyan"
+  },
+  {
+    "id": "pwr_large_4",
+    "fg": "silo_cyan"
+  },
+  {
+    "id": "warehouse",
+    "fg": "industry_light_blue"
+  },
+  {
+    "id": "warehouse_roof",
+    "fg": "industry_light_blue"
+  },
+  {
+    "id": "small_storage_units",
+    "fg": "garage_yellow"
+  },
+  {
+    "id": "small_storage_units_roof",
+    "fg": "garage_yellow"
+  },
+  {
+    "id": "small_storage_units_1",
+    "fg": "garage_yellow"
+  },
+  {
+    "id": "small_storage_units_roof_1",
+    "fg": "garage_yellow"
+  },
+  {
+    "id": "lumberyard_0_0",
+    "fg": "square_brown"
+  },
+  {
+    "id": "lumberyard_0_1",
+    "fg": "square_brown"
+  },
+  {
+    "id": "lumberyard_1_0",
+    "fg": "square_brown"
+  },
+  {
+    "id": "lumberyard_1_1",
+    "fg": "square_brown"
+  },
+  {
+    "id": "lumberyard_0_0_roof",
+    "fg": "square_brown"
+  },
+  {
+    "id": "lumberyard_0_1_roof",
+    "fg": "square_brown"
+  },
+  {
+    "id": "lumberyard_1_0_roof",
+    "fg": "square_brown"
+  },
+  {
+    "id": "lumberyard_1_1_roof",
+    "fg": "square_brown"
+  },
+  {
+    "id": [
+      "lumbermill_0_0",
+      "lumbermill_0_1",
+      "lumbermill_1_0",
+      "lumbermill_1_1",
+      "lumbermill_0_0_ocu",
+      "lumbermill_0_1_ocu",
+      "lumbermill_1_0_ocu",
+      "lumbermill_1_1_ocu",
+      "lumbermill_0_0_roof",
+      "lumbermill_0_1_roof",
+      "lumbermill_1_0_roof",
+      "lumbermill_1_1_roof"
+    ],
+    "fg": "industry_brown"
+  },
+  {
+    "id": "lumbermill_dforest",
+    "fg": "small_tree_brown"
+  },
+  {
+    "id": "construction_site",
+    "fg": "square_dark_gray"
+  },
+  {
+    "id": "abandonedwarehouse",
+    "fg": "industry_brown"
+  },
+  {
+    "id": "abandonedwarehouse_roof",
+    "fg": "industry_brown"
+  },
+  {
+    "id": "abandonedwarehouse_1",
+    "fg": "industry_brown"
+  },
+  {
+    "id": "abandonedwarehouse_1_roof",
+    "fg": "industry_brown"
+  },
+  {
+    "id": "abandonedwarehouse_2",
+    "fg": "industry_brown"
+  },
+  {
+    "id": "abandonedwarehouse_2_roof",
+    "fg": "industry_brown"
+  },
+  {
+    "id": "abandonedwarehouse_3",
+    "fg": "industry_brown"
+  },
+  {
+    "id": "abandonedwarehouse_3_roof",
+    "fg": "industry_brown"
+  },
+  {
+    "id": "abandonedwarehouse_4",
+    "fg": "industry_brown"
+  },
+  {
+    "id": "abandonedwarehouse_4_roof",
+    "fg": "industry_brown"
+  },
+  {
+    "id": "large_storage_units_3",
+    "fg": "industry_yellow"
+  },
+  {
+    "id": "large_storage_units_roof_3",
+    "fg": "industry_yellow"
+  },
+  {
+    "id": "large_storage_units_2",
+    "fg": "industry_yellow"
+  },
+  {
+    "id": "large_storage_units_roof_2",
+    "fg": "industry_yellow"
+  },
+  {
+    "id": "large_storage_units_1",
+    "fg": "industry_yellow"
+  },
+  {
+    "id": "large_storage_units_roof_1",
+    "fg": "industry_yellow"
+  },
+  {
+    "id": "medium_storage_units_1",
+    "fg": "garage_yellow"
+  },
+  {
+    "id": "medium_storage_units_roof_1",
+    "fg": "garage_yellow"
+  },
+  {
+    "id": "medium_storage_units_2",
+    "fg": "garage_yellow"
+  },
+  {
+    "id": "medium_storage_units_roof_2",
+    "fg": "garage_yellow"
+  },
+  {
+    "id": "steel_mill_0_1",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_0_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_0_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_0_4",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_1_1",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_1_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_1_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_1_4",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_2_1",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_2_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_2_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_2_4",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_3_1",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_3_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_3_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_rail_1",
+    "fg": "square_dark_gray"
+  },
+  {
+    "id": "steel_mill_4_1",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_4_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_4_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_rail_2",
+    "fg": "square_dark_gray"
+  },
+  {
+    "id": "steel_mill_0_1_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_0_2_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_0_3_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_0_4_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_1_1_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_1_2_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_1_3_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_1_4_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_2_1_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_2_2_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_2_3_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_2_4_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_3_1_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_3_2_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_3_3_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_rail_1_2",
+    "fg": "square_dark_gray"
+  },
+  {
+    "id": "steel_mill_4_1_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_4_2_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_4_3_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_rail_2_2",
+    "fg": "square_dark_gray"
+  },
+  {
+    "id": "steel_mill_0_1_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_0_2_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_0_3_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_0_4_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_1_1_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_1_2_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_1_3_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_1_4_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_2_1_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_2_2_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_2_3_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_2_4_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_3_1_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_3_2_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_3_3_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_rail_1_3",
+    "fg": "square_dark_gray"
+  },
+  {
+    "id": "steel_mill_4_1_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_4_2_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_4_3_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_rail_2_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "s_lightindustry_road_0",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "s_lightindustry_road_1",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "s_lightindustry_scen_road_0",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "s_lightindustry_scen_road_1",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "s_lightindustry_00",
+    "fg": "industry_light_blue"
+  },
+  {
+    "id": "s_lightindustry_01",
+    "fg": "industry_light_blue"
+  },
+  {
+    "id": "s_lightindustry_10",
+    "fg": "industry_light_blue"
+  },
+  {
+    "id": "s_lightindustry_11",
+    "fg": "industry_light_blue"
+  },
+  {
+    "id": "s_lightindustry_00_roof",
+    "fg": "industry_light_blue"
+  },
+  {
+    "id": "s_lightindustry_01_roof",
+    "fg": "industry_light_blue"
+  },
+  {
+    "id": "s_lightindustry_10_roof",
+    "fg": "industry_light_blue"
+  },
+  {
+    "id": "s_lightindustry_11_roof",
+    "fg": "industry_light_blue"
+  },
+  {
+    "id": "s_lightindustry_scen_00_roof",
+    "fg": "industry_light_blue"
+  },
+  {
+    "id": "s_lightindustry_scen_01_roof",
+    "fg": "industry_light_blue"
+  },
+  {
+    "id": "s_lightindustry_scen_10_roof",
+    "fg": "industry_light_blue"
+  },
+  {
+    "id": "s_lightindustry_scen_11_roof",
+    "fg": "industry_light_blue"
+  },
+  {
+    "id": "s_lightindustry_scen_00",
+    "fg": "industry_light_blue"
+  },
+  {
+    "id": "s_lightindustry_scen_01",
+    "fg": "industry_light_blue"
+  },
+  {
+    "id": "s_lightindustry_scen_10",
+    "fg": "industry_light_blue"
+  },
+  {
+    "id": "s_lightindustry_scen_11",
+    "fg": "industry_light_blue"
+  },
+  {
+    "id": [
+      "lab_surface_parking_blockA0",
+      "lab_surface_parking_blockB0",
+      "lab_surface_parking_blockC0",
+      "lab_surface_parking_blockD0",
+      "lab_surface_parking_blockE0",
+      "lab_surface_parking_blockA1",
+      "lab_surface_parking_blockB1",
+      "lab_surface_parking_blockC1",
+      "lab_surface_parking_blockD1",
+      "lab_surface_parking_blockE1",
+      "lab_surface_parking_blockA2",
+      "lab_surface_parking_blockE2"
+    ],
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": [
+      "lab_security_z0S",
+      "lab_security_z0",
+      "lab_security_z0N",
+      "lab_res_8_SWD_ground",
+      "lab_res_8_SED_ground",
+      "lab_res_8_SWU_ground",
+      "lab_res_8_SEU_ground",
+      "lab_CORE_2x1_SED_ground",
+      "lab_CORE_2x1_WC_ground",
+      "lab_CORE_2x1_NED_ground",
+      "lab_CORE_2x1_SWD_ground",
+      "lab_CORE_2x1_EC_ground",
+      "lab_CORE_2x1_NWD_ground",
+      "lab_security_z0S_roof",
+      "lab_security_z0N_roof",
+      "full_basic_lab_roof"
+    ],
+    "fg": "industry_light_gray"
+  },
+  {
+    "id": "smallscrapyard_ocu",
+    "fg": "hive_red"
+  },
+  {
+    "//": "placeholder; better (representing) sprites for later",
+    "id": [
+      "nuclear_plant_0_0_0",
+      "nuclear_plant_1_0_0",
+      "nuclear_plant_2_0_0",
+      "nuclear_plant_3_0_0",
+      "nuclear_plant_4_0_0",
+      "nuclear_plant_5_0_0",
+      "nuclear_plant_6_0_0",
+      "nuclear_plant_7_0_0",
+      "nuclear_plant_8_0_0",
+      "nuclear_plant_9_0_0",
+      "nuclear_plant_10_0_0",
+      "nuclear_plant_11_0_0",
+      "nuclear_plant_12_0_0",
+      "nuclear_plant_13_0_0",
+      "nuclear_plant_14_0_0",
+      "nuclear_plant_15_0_0",
+
+      "nuclear_plant_0_1_0",
+      "nuclear_plant_1_1_0",
+      "nuclear_plant_2_1_0",
+      "nuclear_plant_3_1_0",
+      "nuclear_plant_4_1_0",
+      "nuclear_plant_5_1_0",
+      "nuclear_plant_6_1_0",
+      "nuclear_plant_7_1_0",
+      "nuclear_plant_8_1_0",
+      "nuclear_plant_9_1_0",
+      "nuclear_plant_10_1_0",
+      "nuclear_plant_11_1_0",
+      "nuclear_plant_12_1_0",
+      "nuclear_plant_13_1_0",
+      "nuclear_plant_14_1_0",
+      "nuclear_plant_15_1_0",
+
+      "nuclear_plant_0_2_0",
+      "nuclear_plant_1_2_0",
+      "nuclear_plant_2_2_0",
+      "nuclear_plant_3_2_0",
+      "nuclear_plant_4_2_0",
+      "nuclear_plant_5_2_0",
+      "nuclear_plant_6_2_0",
+      "nuclear_plant_7_2_0",
+      "nuclear_plant_8_2_0",
+      "nuclear_plant_9_2_0",
+      "nuclear_plant_10_2_0",
+      "nuclear_plant_11_2_0",
+      "nuclear_plant_12_2_0",
+      "nuclear_plant_13_2_0",
+      "nuclear_plant_14_2_0",
+      "nuclear_plant_15_2_0",
+
+      "nuclear_plant_0_3_0",
+      "nuclear_plant_1_3_0",
+      "nuclear_plant_2_3_0",
+      "nuclear_plant_3_3_0",
+      "nuclear_plant_4_3_0",
+      "nuclear_plant_5_3_0",
+      "nuclear_plant_6_3_0",
+      "nuclear_plant_7_3_0",
+      "nuclear_plant_8_3_0",
+      "nuclear_plant_9_3_0",
+      "nuclear_plant_10_3_0",
+      "nuclear_plant_11_3_0",
+      "nuclear_plant_12_3_0",
+      "nuclear_plant_13_3_0",
+      "nuclear_plant_14_3_0",
+      "nuclear_plant_15_3_0",
+
+      "nuclear_plant_0_4_0",
+      "nuclear_plant_1_4_0",
+      "nuclear_plant_2_4_0",
+      "nuclear_plant_3_4_0",
+      "nuclear_plant_4_4_0",
+      "nuclear_plant_5_4_0",
+      "nuclear_plant_6_4_0",
+      "nuclear_plant_7_4_0",
+      "nuclear_plant_8_4_0",
+      "nuclear_plant_9_4_0",
+      "nuclear_plant_10_4_0",
+      "nuclear_plant_11_4_0",
+      "nuclear_plant_12_4_0",
+      "nuclear_plant_13_4_0",
+      "nuclear_plant_14_4_0",
+      "nuclear_plant_15_4_0",
+
+      "nuclear_plant_0_5_0",
+      "nuclear_plant_1_5_0",
+      "nuclear_plant_2_5_0",
+      "nuclear_plant_3_5_0",
+      "nuclear_plant_4_5_0",
+      "nuclear_plant_5_5_0",
+      "nuclear_plant_6_5_0",
+      "nuclear_plant_7_5_0",
+      "nuclear_plant_8_5_0",
+      "nuclear_plant_9_5_0",
+      "nuclear_plant_10_5_0",
+      "nuclear_plant_11_5_0",
+      "nuclear_plant_12_5_0",
+      "nuclear_plant_13_5_0",
+      "nuclear_plant_14_5_0",
+      "nuclear_plant_15_5_0",
+
+      "nuclear_plant_0_6_0",
+      "nuclear_plant_1_6_0",
+      "nuclear_plant_2_6_0",
+      "nuclear_plant_3_6_0",
+      "nuclear_plant_4_6_0",
+      "nuclear_plant_5_6_0",
+      "nuclear_plant_6_6_0",
+      "nuclear_plant_7_6_0",
+      "nuclear_plant_8_6_0",
+      "nuclear_plant_9_6_0",
+      "nuclear_plant_10_6_0",
+      "nuclear_plant_11_6_0",
+      "nuclear_plant_12_6_0",
+      "nuclear_plant_13_6_0",
+      "nuclear_plant_14_6_0",
+      "nuclear_plant_15_6_0",
+
+      "nuclear_plant_0_7_0",
+      "nuclear_plant_1_7_0",
+      "nuclear_plant_2_7_0",
+      "nuclear_plant_3_7_0",
+      "nuclear_plant_4_7_0",
+      "nuclear_plant_5_7_0",
+      "nuclear_plant_6_7_0",
+      "nuclear_plant_7_7_0",
+      "nuclear_plant_8_7_0",
+      "nuclear_plant_9_7_0",
+      "nuclear_plant_10_7_0",
+      "nuclear_plant_11_7_0",
+      "nuclear_plant_12_7_0",
+      "nuclear_plant_13_7_0",
+      "nuclear_plant_14_7_0",
+      "nuclear_plant_15_7_0",
+
+
+      "nuclear_plant_0_0_1",
+      "nuclear_plant_1_0_1",
+      "nuclear_plant_2_0_1",
+      "nuclear_plant_3_0_1",
+      "nuclear_plant_4_0_1",
+      "nuclear_plant_5_0_1",
+      "nuclear_plant_6_0_1",
+      "nuclear_plant_7_0_1",
+      "nuclear_plant_8_0_1",
+      "nuclear_plant_9_0_1",
+      "nuclear_plant_10_0_1",
+      "nuclear_plant_11_0_1",
+      "nuclear_plant_12_0_1",
+      "nuclear_plant_13_0_1",
+      "nuclear_plant_14_0_1",
+      "nuclear_plant_15_0_1",
+
+      "nuclear_plant_0_1_1",
+      "nuclear_plant_1_1_1",
+      "nuclear_plant_2_1_1",
+      "nuclear_plant_3_1_1",
+      "nuclear_plant_4_1_1",
+      "nuclear_plant_5_1_1",
+      "nuclear_plant_6_1_1",
+      "nuclear_plant_7_1_1",
+      "nuclear_plant_8_1_1",
+      "nuclear_plant_9_1_1",
+      "nuclear_plant_10_1_1",
+      "nuclear_plant_11_1_1",
+      "nuclear_plant_12_1_1",
+      "nuclear_plant_13_1_1",
+      "nuclear_plant_14_1_1",
+      "nuclear_plant_15_1_1",
+
+      "nuclear_plant_0_2_1",
+      "nuclear_plant_1_2_1",
+      "nuclear_plant_2_2_1",
+      "nuclear_plant_3_2_1",
+      "nuclear_plant_4_2_1",
+      "nuclear_plant_5_2_1",
+      "nuclear_plant_6_2_1",
+      "nuclear_plant_7_2_1",
+      "nuclear_plant_8_2_1",
+      "nuclear_plant_9_2_1",
+      "nuclear_plant_10_2_1",
+      "nuclear_plant_11_2_1",
+      "nuclear_plant_12_2_1",
+      "nuclear_plant_13_2_1",
+      "nuclear_plant_14_2_1",
+      "nuclear_plant_15_2_1",
+
+      "nuclear_plant_0_3_1",
+      "nuclear_plant_1_3_1",
+      "nuclear_plant_2_3_1",
+      "nuclear_plant_3_3_1",
+      "nuclear_plant_4_3_1",
+      "nuclear_plant_5_3_1",
+      "nuclear_plant_6_3_1",
+      "nuclear_plant_7_3_1",
+      "nuclear_plant_8_3_1",
+      "nuclear_plant_9_3_1",
+      "nuclear_plant_10_3_1",
+      "nuclear_plant_11_3_1",
+      "nuclear_plant_12_3_1",
+      "nuclear_plant_13_3_1",
+      "nuclear_plant_14_3_1",
+      "nuclear_plant_15_3_1",
+
+      "nuclear_plant_0_4_1",
+      "nuclear_plant_1_4_1",
+      "nuclear_plant_2_4_1",
+      "nuclear_plant_3_4_1",
+      "nuclear_plant_4_4_1",
+      "nuclear_plant_5_4_1",
+      "nuclear_plant_6_4_1",
+      "nuclear_plant_7_4_1",
+      "nuclear_plant_8_4_1",
+      "nuclear_plant_9_4_1",
+      "nuclear_plant_10_4_1",
+      "nuclear_plant_11_4_1",
+      "nuclear_plant_12_4_1",
+      "nuclear_plant_13_4_1",
+      "nuclear_plant_14_4_1",
+      "nuclear_plant_15_4_1",
+
+      "nuclear_plant_0_5_1",
+      "nuclear_plant_1_5_1",
+      "nuclear_plant_2_5_1",
+      "nuclear_plant_3_5_1",
+      "nuclear_plant_4_5_1",
+      "nuclear_plant_5_5_1",
+      "nuclear_plant_6_5_1",
+      "nuclear_plant_7_5_1",
+      "nuclear_plant_8_5_1",
+      "nuclear_plant_9_5_1",
+      "nuclear_plant_10_5_1",
+      "nuclear_plant_11_5_1",
+      "nuclear_plant_12_5_1",
+      "nuclear_plant_13_5_1",
+      "nuclear_plant_14_5_1",
+      "nuclear_plant_15_5_1",
+
+      "nuclear_plant_0_6_1",
+      "nuclear_plant_1_6_1",
+      "nuclear_plant_2_6_1",
+      "nuclear_plant_3_6_1",
+      "nuclear_plant_4_6_1",
+      "nuclear_plant_5_6_1",
+      "nuclear_plant_6_6_1",
+      "nuclear_plant_7_6_1",
+      "nuclear_plant_8_6_1",
+      "nuclear_plant_9_6_1",
+      "nuclear_plant_10_6_1",
+      "nuclear_plant_11_6_1",
+      "nuclear_plant_12_6_1",
+      "nuclear_plant_13_6_1",
+      "nuclear_plant_14_6_1",
+      "nuclear_plant_15_6_1",
+
+      "nuclear_plant_0_7_1",
+      "nuclear_plant_1_7_1",
+      "nuclear_plant_2_7_1",
+      "nuclear_plant_3_7_1",
+      "nuclear_plant_4_7_1",
+      "nuclear_plant_5_7_1",
+      "nuclear_plant_6_7_1",
+      "nuclear_plant_7_7_1",
+      "nuclear_plant_8_7_1",
+      "nuclear_plant_9_7_1",
+      "nuclear_plant_10_7_1",
+      "nuclear_plant_11_7_1",
+      "nuclear_plant_12_7_1",
+      "nuclear_plant_13_7_1",
+      "nuclear_plant_14_7_1",
+      "nuclear_plant_15_7_1",
+
+
+      "nuclear_plant_0_0_2",
+      "nuclear_plant_1_0_2",
+      "nuclear_plant_2_0_2",
+      "nuclear_plant_3_0_2",
+      "nuclear_plant_4_0_2",
+      "nuclear_plant_5_0_2",
+      "nuclear_plant_6_0_2",
+      "nuclear_plant_7_0_2",
+      "nuclear_plant_8_0_2",
+      "nuclear_plant_9_0_2",
+      "nuclear_plant_10_0_2",
+      "nuclear_plant_11_0_2",
+      "nuclear_plant_12_0_2",
+      "nuclear_plant_13_0_2",
+      "nuclear_plant_14_0_2",
+      "nuclear_plant_15_0_2",
+
+      "nuclear_plant_0_1_2",
+      "nuclear_plant_1_1_2",
+      "nuclear_plant_2_1_2",
+      "nuclear_plant_3_1_2",
+      "nuclear_plant_4_1_2",
+      "nuclear_plant_5_1_2",
+      "nuclear_plant_6_1_2",
+      "nuclear_plant_7_1_2",
+      "nuclear_plant_8_1_2",
+      "nuclear_plant_9_1_2",
+      "nuclear_plant_10_1_2",
+      "nuclear_plant_11_1_2",
+      "nuclear_plant_12_1_2",
+      "nuclear_plant_13_1_2",
+      "nuclear_plant_14_1_2",
+      "nuclear_plant_15_1_2",
+
+      "nuclear_plant_0_2_2",
+      "nuclear_plant_1_2_2",
+      "nuclear_plant_2_2_2",
+      "nuclear_plant_3_2_2",
+      "nuclear_plant_4_2_2",
+      "nuclear_plant_5_2_2",
+      "nuclear_plant_6_2_2",
+      "nuclear_plant_7_2_2",
+      "nuclear_plant_8_2_2",
+      "nuclear_plant_9_2_2",
+      "nuclear_plant_10_2_2",
+      "nuclear_plant_11_2_2",
+      "nuclear_plant_12_2_2",
+      "nuclear_plant_13_2_2",
+      "nuclear_plant_14_2_2",
+      "nuclear_plant_15_2_2",
+
+      "nuclear_plant_0_3_2",
+      "nuclear_plant_1_3_2",
+      "nuclear_plant_2_3_2",
+      "nuclear_plant_3_3_2",
+      "nuclear_plant_4_3_2",
+      "nuclear_plant_5_3_2",
+      "nuclear_plant_6_3_2",
+      "nuclear_plant_7_3_2",
+      "nuclear_plant_8_3_2",
+      "nuclear_plant_9_3_2",
+      "nuclear_plant_10_3_2",
+      "nuclear_plant_11_3_2",
+      "nuclear_plant_12_3_2",
+      "nuclear_plant_13_3_2",
+      "nuclear_plant_14_3_2",
+      "nuclear_plant_15_3_2",
+
+      "nuclear_plant_0_4_2",
+      "nuclear_plant_1_4_2",
+      "nuclear_plant_2_4_2",
+      "nuclear_plant_3_4_2",
+      "nuclear_plant_4_4_2",
+      "nuclear_plant_5_4_2",
+      "nuclear_plant_6_4_2",
+      "nuclear_plant_7_4_2",
+      "nuclear_plant_8_4_2",
+      "nuclear_plant_9_4_2",
+      "nuclear_plant_10_4_2",
+      "nuclear_plant_11_4_2",
+      "nuclear_plant_12_4_2",
+      "nuclear_plant_13_4_2",
+      "nuclear_plant_14_4_2",
+      "nuclear_plant_15_4_2",
+
+      "nuclear_plant_0_5_2",
+      "nuclear_plant_1_5_2",
+      "nuclear_plant_2_5_2",
+      "nuclear_plant_3_5_2",
+      "nuclear_plant_4_5_2",
+      "nuclear_plant_5_5_2",
+      "nuclear_plant_6_5_2",
+      "nuclear_plant_7_5_2",
+      "nuclear_plant_8_5_2",
+      "nuclear_plant_9_5_2",
+      "nuclear_plant_10_5_2",
+      "nuclear_plant_11_5_2",
+      "nuclear_plant_12_5_2",
+      "nuclear_plant_13_5_2",
+      "nuclear_plant_14_5_2",
+      "nuclear_plant_15_5_2",
+
+      "nuclear_plant_0_6_2",
+      "nuclear_plant_1_6_2",
+      "nuclear_plant_2_6_2",
+      "nuclear_plant_3_6_2",
+      "nuclear_plant_4_6_2",
+      "nuclear_plant_5_6_2",
+      "nuclear_plant_6_6_2",
+      "nuclear_plant_7_6_2",
+      "nuclear_plant_8_6_2",
+      "nuclear_plant_9_6_2",
+      "nuclear_plant_10_6_2",
+      "nuclear_plant_11_6_2",
+      "nuclear_plant_12_6_2",
+      "nuclear_plant_13_6_2",
+      "nuclear_plant_14_6_2",
+      "nuclear_plant_15_6_2",
+
+      "nuclear_plant_0_7_2",
+      "nuclear_plant_1_7_2",
+      "nuclear_plant_2_7_2",
+      "nuclear_plant_3_7_2",
+      "nuclear_plant_4_7_2",
+      "nuclear_plant_5_7_2",
+      "nuclear_plant_6_7_2",
+      "nuclear_plant_7_7_2",
+      "nuclear_plant_8_7_2",
+      "nuclear_plant_9_7_2",
+      "nuclear_plant_10_7_2",
+      "nuclear_plant_11_7_2",
+      "nuclear_plant_12_7_2",
+      "nuclear_plant_13_7_2",
+      "nuclear_plant_14_7_2",
+      "nuclear_plant_15_7_2",
+
+
+      "nuclear_plant_0_0_3",
+      "nuclear_plant_1_0_3",
+      "nuclear_plant_2_0_3",
+      "nuclear_plant_3_0_3",
+      "nuclear_plant_4_0_3",
+      "nuclear_plant_5_0_3",
+      "nuclear_plant_6_0_3",
+      "nuclear_plant_7_0_3",
+      "nuclear_plant_8_0_3",
+      "nuclear_plant_9_0_3",
+      "nuclear_plant_10_0_3",
+      "nuclear_plant_11_0_3",
+      "nuclear_plant_12_0_3",
+      "nuclear_plant_13_0_3",
+      "nuclear_plant_14_0_3",
+      "nuclear_plant_15_0_3",
+
+      "nuclear_plant_0_1_3",
+      "nuclear_plant_1_1_3",
+      "nuclear_plant_2_1_3",
+      "nuclear_plant_3_1_3",
+      "nuclear_plant_4_1_3",
+      "nuclear_plant_5_1_3",
+      "nuclear_plant_6_1_3",
+      "nuclear_plant_7_1_3",
+      "nuclear_plant_8_1_3",
+      "nuclear_plant_9_1_3",
+      "nuclear_plant_10_1_3",
+      "nuclear_plant_11_1_3",
+      "nuclear_plant_12_1_3",
+      "nuclear_plant_13_1_3",
+      "nuclear_plant_14_1_3",
+      "nuclear_plant_15_1_3",
+
+      "nuclear_plant_0_2_3",
+      "nuclear_plant_1_2_3",
+      "nuclear_plant_2_2_3",
+      "nuclear_plant_3_2_3",
+      "nuclear_plant_4_2_3",
+      "nuclear_plant_5_2_3",
+      "nuclear_plant_6_2_3",
+      "nuclear_plant_7_2_3",
+      "nuclear_plant_8_2_3",
+      "nuclear_plant_9_2_3",
+      "nuclear_plant_10_2_3",
+      "nuclear_plant_11_2_3",
+      "nuclear_plant_12_2_3",
+      "nuclear_plant_13_2_3",
+      "nuclear_plant_14_2_3",
+      "nuclear_plant_15_2_3",
+
+      "nuclear_plant_0_3_3",
+      "nuclear_plant_1_3_3",
+      "nuclear_plant_2_3_3",
+      "nuclear_plant_3_3_3",
+      "nuclear_plant_4_3_3",
+      "nuclear_plant_5_3_3",
+      "nuclear_plant_6_3_3",
+      "nuclear_plant_7_3_3",
+      "nuclear_plant_8_3_3",
+      "nuclear_plant_9_3_3",
+      "nuclear_plant_10_3_3",
+      "nuclear_plant_11_3_3",
+      "nuclear_plant_12_3_3",
+      "nuclear_plant_13_3_3",
+      "nuclear_plant_14_3_3",
+      "nuclear_plant_15_3_3",
+
+      "nuclear_plant_0_4_3",
+      "nuclear_plant_1_4_3",
+      "nuclear_plant_2_4_3",
+      "nuclear_plant_3_4_3",
+      "nuclear_plant_4_4_3",
+      "nuclear_plant_5_4_3",
+      "nuclear_plant_6_4_3",
+      "nuclear_plant_7_4_3",
+      "nuclear_plant_8_4_3",
+      "nuclear_plant_9_4_3",
+      "nuclear_plant_10_4_3",
+      "nuclear_plant_11_4_3",
+      "nuclear_plant_12_4_3",
+      "nuclear_plant_13_4_3",
+      "nuclear_plant_14_4_3",
+      "nuclear_plant_15_4_3",
+
+      "nuclear_plant_0_5_3",
+      "nuclear_plant_1_5_3",
+      "nuclear_plant_2_5_3",
+      "nuclear_plant_3_5_3",
+      "nuclear_plant_4_5_3",
+      "nuclear_plant_5_5_3",
+      "nuclear_plant_6_5_3",
+      "nuclear_plant_7_5_3",
+      "nuclear_plant_8_5_3",
+      "nuclear_plant_9_5_3",
+      "nuclear_plant_10_5_3",
+      "nuclear_plant_11_5_3",
+      "nuclear_plant_12_5_3",
+      "nuclear_plant_13_5_3",
+      "nuclear_plant_14_5_3",
+      "nuclear_plant_15_5_3",
+
+
+      "nuclear_plant_5_2_4",
+      "nuclear_plant_6_2_4",
+      "nuclear_plant_7_2_4",
+      "nuclear_plant_8_2_4",
+      "nuclear_plant_9_2_4",
+      "nuclear_plant_10_2_4",
+      "nuclear_plant_11_2_4",
+
+      "nuclear_plant_5_3_4",
+      "nuclear_plant_6_3_4",
+      "nuclear_plant_7_3_4",
+      "nuclear_plant_8_3_4",
+      "nuclear_plant_9_3_4",
+      "nuclear_plant_10_3_4",
+      "nuclear_plant_11_3_4",
+
+      "nuclear_plant_5_4_4",
+      "nuclear_plant_6_4_4",
+      "nuclear_plant_7_4_4",
+      "nuclear_plant_8_4_4",
+      "nuclear_plant_9_4_4",
+      "nuclear_plant_10_4_4",
+      "nuclear_plant_11_4_4",
+
+
+      "nuclear_plant_7_2_5",
+      "nuclear_plant_8_2_5",
+      "nuclear_plant_7_3_5",
+      "nuclear_plant_8_3_5",
+
+
+      "nuclear_plant_7_3_6",
+      "nuclear_plant_8_3_6",
+
+
+      "nuclear_plant_7_3_7",
+      "nuclear_plant_8_3_7"
+    ],
+    "fg": "big_building_red"
+  },
+  {
+    "id": "solar_farm",
+    "fg": "square_yellow"
+  },
+  {
+    "id": [
+      "wind_turbine_ground",
+      "wind_turbine_pillar",
+      "wind_turbine_pillar_platform",
+      "wind_turbine_nacelle",
+      "wind_turbine_roof"
+    ],
+    "fg": "turbine_light_gray"
+  }
+]

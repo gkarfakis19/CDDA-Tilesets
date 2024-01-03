@@ -1,0 +1,22 @@
+name: Larwick_Overmap composer
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - 'gfx/Larwick_Overmap/**'
+      - '.github/workflows/Larwick_Overmap_ci_build.yml'
+  pull_request:
+    branches:
+      - master
+    paths:
+      - 'gfx/Larwick_Overmap/**'
+      - '.github/workflows/Larwick_Overmap_ci_build.yml'
+
+jobs:
+  build:
+    uses: ./.github/workflows/composer_template.yml
+    with:
+      tileset: Larwick_Overmap
+      composer-args: --use-all

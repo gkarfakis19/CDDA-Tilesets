@@ -1,0 +1,22 @@
+name: HitButton iso composer
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - 'gfx/HitButton_iso/**'
+      - '.github/workflows/HitButton_ci_build.yml'
+  pull_request:
+    branches:
+      - master
+    paths:
+      - 'gfx/HitButton_iso/**'
+      - '.github/workflows/HitButton_ci_build.yml'
+
+jobs:
+  build:
+    uses: ./.github/workflows/composer_template.yml
+    with:
+      tileset: HitButton_iso
+      composer-args: --use-all

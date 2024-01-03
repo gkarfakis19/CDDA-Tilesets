@@ -1,0 +1,22 @@
+name: Ultica_iso composer
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - 'gfx/Ultica_iso/**'
+      - '.github/workflows/Ultica-iso_ci_build.yml'
+  pull_request:
+    branches:
+      - master
+    paths:
+      - 'gfx/Ultica_iso/**'
+      - '.github/workflows/Ultica-iso_ci_build.yml'
+
+jobs:
+  build:
+    uses: ./.github/workflows/composer_template.yml
+    with:
+      tileset: Ultica_iso
+      composer-args: --use-all --obsolete-fillers

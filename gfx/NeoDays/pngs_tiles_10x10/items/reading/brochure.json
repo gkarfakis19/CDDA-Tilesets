@@ -1,0 +1,16 @@
+{
+  "id": [
+    "mallbrochure",
+    "historybrochure",
+    "furniturebrochure",
+    "technologybrochure",
+    "restaurantbrochure",
+    "grocerybrochure",
+    "buylocalpamphlet",
+    "getactivepamphlet",
+    "gunnutpamphlet",
+    "nightlifepamphlet",
+    "petpamphlet"
+  ],
+  "fg": "brochure"
+}

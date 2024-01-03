@@ -1,0 +1,22 @@
+name: IsoMSX+ composer
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - 'gfx/IsoMSX+/**'
+      - '.github/workflows/isomsx_ci_build.yml'
+  pull_request:
+    branches:
+      - master
+    paths:
+      - 'gfx/IsoMSX+/**'
+      - '.github/workflows/isomsx_ci_build.yml'
+
+jobs:
+  build:
+    uses: ./.github/workflows/composer_template.yml
+    with:
+      tileset: IsoMSX+
+      composer-args: --use-all

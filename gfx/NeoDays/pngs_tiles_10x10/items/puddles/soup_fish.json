@@ -1,0 +1,14 @@
+{
+  "id": [
+    "soup_fish",
+    "soup_chicken",
+    "soup_mushroom",
+    "protein_drink",
+    "hflesh_drink",
+    "spider_steak_soup",
+    "oxygen",
+    "mercury",
+    "paint_gray"
+  ],
+  "fg": "soup_fish"
+}

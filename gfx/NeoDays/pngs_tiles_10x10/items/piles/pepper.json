@@ -1,0 +1,25 @@
+{
+  "id": [
+    "pepper",
+    "can_sardine",
+    "can_herring",
+    "gunpowder",
+    "magnesium",
+    "oxy_powder",
+    "material_cement",
+    "chem_aluminium_powder",
+    "chem_black_powder",
+    "chem_carbide",
+    "chem_rocket_fuel",
+    "chem_thermite",
+    "incendiary",
+    "ash",
+    "cathod_mix",
+    "cac2powder",
+    "iodine_crystal",
+    "chem_manganese_dioxide",
+    "chem_mercury_fulminate",
+    "silicone"
+  ],
+  "fg": "pepper"
+}

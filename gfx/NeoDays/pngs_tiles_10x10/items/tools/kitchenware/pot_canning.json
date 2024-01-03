@@ -1,0 +1,14 @@
+{
+  "id": [
+    "charcoal_cooker",
+    "rock_pot",
+    "pot_makeshift",
+    "pot_canning",
+    "pressure_cooker",
+    "casserole",
+    "stock_pot",
+    "iron_pot",
+    "pot_aluminum"
+  ],
+  "fg": "pot_canning"
+}

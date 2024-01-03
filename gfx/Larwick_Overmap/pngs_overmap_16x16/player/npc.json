@@ -1,0 +1,8 @@
+{
+  "id": [
+    "npc_male",
+    "npc_female"
+  ],
+  "rotates": false,
+  "fg": "npc"
+}
